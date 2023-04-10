@@ -1,1 +1,1 @@
-alert("GitHub Packagesのテスト");
+console.log("GitHub Packagesのテスト");
